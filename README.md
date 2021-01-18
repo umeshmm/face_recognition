@@ -1,2 +1,1 @@
-# face_recognition
-using haarcascade_frontalface_alt
+# face-recognition
